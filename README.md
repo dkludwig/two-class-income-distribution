@@ -1,5 +1,5 @@
 # Code for ["Physics-inspired analysis of the two-class income distribution in the USA in 1983-2018"](https://arxiv.org/abs/2110.03140)
-
+The general procedures used are described briefly in the main paper and in greater depth in "supplement.pdf". The organization of the data and code is described below.
 ## data 
 The IRS income and tax distributional datasets are stored here in separate .CSV files for each year. This folder also contains a file with the annual averages of the national CPI-U from 1913-2020, "cpi.csv", as well as a file containing all calculated parameters used in the figures, "params.csv"
 ## analysis 
