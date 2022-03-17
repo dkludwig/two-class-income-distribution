@@ -1,4 +1,4 @@
-# Code for ["Physics-inspired analysis of the two-class income distribution in the USA in 1983-2018"](https://arxiv.org/abs/2110.03140)
+# Data and code for ["Physics-inspired analysis of the two-class income distribution in the USA in 1983-2018"](https://arxiv.org/abs/2110.03140)
 Please read the included [supplement](https://github.com/dkludwig/two-class-income-distribution/blob/main/supplement.pdf) file, which describes the dataset and fitting algorithms in greater detail than in the main paper. The organization of this repository is described below: 
 ## data 
 The IRS income and tax distributional datasets are stored here in separate .CSV files for each year. This folder also contains a file with the annual averages of the national CPI-U from 1913-2020, `cpi.csv`, as well as a file containing all the calculated parameters used in the figures, `params.csv`
